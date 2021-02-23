@@ -5,14 +5,11 @@
   - Apprenticeship Program
   - 2020-...
 
-- [Computer Education and Instructional Technologies](https://bote.kku.edu.tr/)
+- [Computer Science](GITHUB_PROJECTS)
 
-  - Kirikkale University
-  - Bachelor's Degree
-  - 2010-2017
+  - Open Source Society University (OSSU)
+  - 2017-2021
 
-- [Physics](https://fizik.kku.edu.tr/)
+- [Mechanical Engineering](GITHUB_PROJECTS)
 
-  - Kirikkale University
-  - _Dropout_
-  - 2008-2010
+  - 2011-2016
