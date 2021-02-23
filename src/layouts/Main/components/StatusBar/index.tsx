@@ -21,7 +21,7 @@ const StatusBar: React.FC = () => {
           size="xs"
           inverse
         />
-        <span className={classes.text}>master</span>
+        <span className={classes.text}>code</span>
       </a>
 
       <span>
