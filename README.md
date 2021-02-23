@@ -17,8 +17,8 @@ Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/
 - Clone the repo:
 
   ```bash
-  git clone https://github.com/caglarturali/caglarturali.git portfolio-app
-  cd portfolio-app
+  git clone https://github.com/drewsngit/port.git portfolio-app
+  cd port
   ```
 
 - Install the dependencies:
